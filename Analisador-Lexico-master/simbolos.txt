@@ -1,0 +1,18 @@
+ENTONCES
+1		ENTONCES		null
+ESCRIBIR
+2		ESCRIBIR		null
+FIN
+3		FIN		null
+HACER
+4		HACER		null
+INICIO
+5		INICIO		null
+LEE
+6		LEE		null
+MIENTRAS
+7		MIENTRAS		null
+SI
+8		SI		null
+SINO
+9		SINO		null
